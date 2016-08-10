@@ -1,9 +1,11 @@
 {
   "name": "blade-spacer",
   "main": "./lib/blade-spacer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Automatically adds spaces to laravel blade syntax for readability.",
-  "activationHooks": ["language-blade:grammar-used"],
+  "activationHooks": [
+    "language-blade:grammar-used"
+  ],
   "keywords": [
     "blade spacer",
     "blade",
