@@ -9,7 +9,7 @@
     "blade",
     "laravel"
   ],
-  "repository": "https://github.com/atom/blade-spacer",
+  "repository": "https://github.com/ishanray/blade-spacer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
