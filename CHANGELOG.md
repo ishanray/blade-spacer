@@ -1,3 +1,8 @@
+## 0.4.0 - Optimizations
+* Call the spacer function only if all conditions are correctly made
+* Add settings to toggle all files / blade only files
+
+
 ## 0.1.1 - Bug fix
 * Activation bug fix
 
