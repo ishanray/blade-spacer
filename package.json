@@ -3,9 +3,6 @@
   "main": "./lib/blade-spacer",
   "version": "0.2.1",
   "description": "Automatically adds spaces to laravel blade syntax for readability.",
-  "activationHooks": [
-    "language-blade:grammar-used"
-  ],
   "keywords": [
     "blade spacer",
     "blade",
